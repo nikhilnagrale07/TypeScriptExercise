@@ -1,0 +1,62 @@
+
+.mrTop{
+    margin: 4%;
+}
+.vl {
+    border-left: 6px solid green;
+    height: 500px;
+  }
+
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  .bgColor{
+    background-color: antiquewhite;
+  }
+
+  .heading{
+    font-family: Georgia, serif;
+    color: blue;
+    background-color: lightgrey;
+    
+    letter-spacing: 14px;
+    white-space: 2em;
+    text-align: center
+  }
+  .subHeading{
+    font-family: Georgia, serif;
+    color: darkred;
+    letter-spacing: 7px;
+    white-space: 2em;
+   
+  }
+  .font{
+    font-weight: bold;
+    font-style: italic;
+  }
+  .marginTop{
+    margin-top: 3%;
+  }
+  .pageBorder{
+    border: 2px solid;
+  }
